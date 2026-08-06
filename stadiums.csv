@@ -1,0 +1,17 @@
+city,stadium_name,is_open_air,utc_timezone,capacity
+Kansas City,Arrowhead Stadium,1,5,69045
+Toronto,BMO Field,1,4,43036
+Guadalajara,Estadio Akron,1,6,45664
+Mexico City,Estadio Azteca,1,6,80824
+Monterrey,Estadio BBVA,1,6,51243
+Boston,Gillette Stadium,1,4,64146
+Miami,Hard Rock Stadium,1,4,64478
+San Francisco Bay Area,Levi's Stadium,1,7,68827
+New York New Jersey,MetLife Stadium,1,4,80663
+Los Angeles,SoFi Stadium,1,7,70492
+Philadelphia,Lincoln Financial Field,1,4,68324
+Seattle,Lumen Field,1,7,66925
+Dallas,AT&T Stadium,0,5,70649
+Houston,NRG Stadium,0,5,68777
+Atlanta,Mercedes-Benz Stadium,0,4,68239
+Vancouver,BC Place,0,7,52497

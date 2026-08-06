@@ -1,0 +1,65 @@
+city,kickoff_time,wbgt_outdoor,wbgt_indoor
+Vancouver,12:00,23.93,21.0
+Vancouver,15:00,24.36,21.0
+Vancouver,18:00,23.15,21.0
+Vancouver,21:00,20.73,21.0
+Seattle,12:00,20.37,20.37
+Seattle,15:00,21.99,21.99
+Seattle,18:00,20.66,20.66
+Seattle,21:00,17.05,17.05
+San Francisco Bay Area,12:00,23.9,23.9
+San Francisco Bay Area,15:00,25.15,25.15
+San Francisco Bay Area,18:00,22.26,22.26
+San Francisco Bay Area,21:00,17.71,17.71
+Los Angeles,12:00,25.0,25.0
+Los Angeles,15:00,24.85,24.85
+Los Angeles,18:00,22.13,22.13
+Los Angeles,21:00,18.32,18.32
+Guadalajara,12:00,24.21,24.21
+Guadalajara,15:00,24.94,24.94
+Guadalajara,18:00,21.85,21.85
+Guadalajara,21:00,19.29,19.29
+Mexico City,12:00,21.0,21.0
+Mexico City,15:00,21.14,21.14
+Mexico City,18:00,18.38,18.38
+Mexico City,21:00,15.77,15.77
+Monterrey,12:00,29.36,29.36
+Monterrey,15:00,29.52,29.52
+Monterrey,18:00,27.26,27.26
+Monterrey,21:00,25.0,25.0
+Houston,12:00,29.95,21.0
+Houston,15:00,30.67,21.0
+Houston,18:00,28.88,21.0
+Houston,21:00,26.33,21.0
+Dallas,12:00,29.64,21.0
+Dallas,15:00,30.76,21.0
+Dallas,18:00,29.24,21.0
+Dallas,21:00,26.35,21.0
+Kansas City,12:00,28.93,28.93
+Kansas City,15:00,29.85,29.85
+Kansas City,18:00,28.42,28.42
+Kansas City,21:00,25.07,25.07
+Atlanta,12:00,28.04,21.0
+Atlanta,15:00,28.88,21.0
+Atlanta,18:00,27.2,21.0
+Atlanta,21:00,24.54,21.0
+Miami,12:00,29.51,29.51
+Miami,15:00,29.68,29.68
+Miami,18:00,27.65,27.65
+Miami,21:00,25.79,25.79
+Toronto,12:00,23.93,23.93
+Toronto,15:00,24.36,24.36
+Toronto,18:00,23.15,23.15
+Toronto,21:00,20.73,20.73
+Boston,12:00,26.25,26.25
+Boston,15:00,26.28,26.28
+Boston,18:00,24.32,24.32
+Boston,21:00,21.32,21.32
+Philadelphia,12:00,27.72,27.72
+Philadelphia,15:00,27.94,27.94
+Philadelphia,18:00,26.22,26.22
+Philadelphia,21:00,23.67,23.67
+New York New Jersey,12:00,27.15,27.15
+New York New Jersey,15:00,27.17,27.17
+New York New Jersey,18:00,25.28,25.28
+New York New Jersey,21:00,22.66,22.66
