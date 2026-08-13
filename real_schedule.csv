@@ -6,12 +6,12 @@ match_id,group,city,date,kickoff_time_local
 5,A,Mexico City,2026-06-24,19:00
 6,A,Monterrey,2026-06-24,19:00
 7,B,Toronto,2026-06-12,15:00
-8,B,San Francisco Bay Area,2026-06-13,12:00
+8,B,San Francisco,2026-06-13,12:00
 9,B,Los Angeles,2026-06-18,12:00
 10,B,Vancouver,2026-06-18,15:00
 11,B,Vancouver,2026-06-24,12:00
 12,B,Seattle,2026-06-24,12:00
-13,C,New York New Jersey,2026-06-13,18:00
+13,C,New York,2026-06-13,18:00
 14,C,Boston,2026-06-13,21:00
 15,C,Boston,2026-06-19,18:00
 16,C,Philadelphia,2026-06-19,21:00
@@ -20,15 +20,15 @@ match_id,group,city,date,kickoff_time_local
 19,D,Los Angeles,2026-06-12,18:00
 20,D,Vancouver,2026-06-13,21:00
 21,D,Seattle,2026-06-19,12:00
-22,D,San Francisco Bay Area,2026-06-19,21:00
+22,D,San Francisco,2026-06-19,21:00
 23,D,Los Angeles,2026-06-25,19:00
-24,D,San Francisco Bay Area,2026-06-25,19:00
+24,D,San Francisco,2026-06-25,19:00
 25,E,Houston,2026-06-14,13:00
 26,E,Philadelphia,2026-06-14,18:00
 27,E,Toronto,2026-06-20,16:00
 28,E,Kansas City,2026-06-20,19:00
 29,E,Philadelphia,2026-06-25,16:00
-30,E,New York New Jersey,2026-06-25,16:00
+30,E,New York,2026-06-25,16:00
 31,F,Dallas,2026-06-14,15:00
 32,F,Monterrey,2026-06-14,20:00
 33,F,Houston,2026-06-20,12:00
@@ -47,16 +47,16 @@ match_id,group,city,date,kickoff_time_local
 46,H,Miami,2026-06-21,18:00
 47,H,Houston,2026-06-26,18:00
 48,H,Guadalajara,2026-06-26,19:00
-49,I,New York New Jersey,2026-06-16,15:00
+49,I,New York,2026-06-16,15:00
 50,I,Boston,2026-06-16,18:00
 51,I,Philadelphia,2026-06-22,17:00
-52,I,New York New Jersey,2026-06-22,20:00
+52,I,New York,2026-06-22,20:00
 53,I,Boston,2026-06-26,15:00
 54,I,Toronto,2026-06-26,15:00
 55,J,Kansas City,2026-06-16,20:00
-56,J,San Francisco Bay Area,2026-06-16,21:00
+56,J,San Francisco,2026-06-16,21:00
 57,J,Dallas,2026-06-22,12:00
-58,J,San Francisco Bay Area,2026-06-22,20:00
+58,J,San Francisco,2026-06-22,20:00
 59,J,Kansas City,2026-06-27,21:00
 60,J,Dallas,2026-06-27,21:00
 61,K,Houston,2026-06-17,12:00
@@ -69,5 +69,5 @@ match_id,group,city,date,kickoff_time_local
 68,L,Toronto,2026-06-17,18:00
 69,L,Boston,2026-06-23,16:00
 70,L,Toronto,2026-06-23,19:00
-71,L,New York New Jersey,2026-06-27,17:00
+71,L,New York,2026-06-27,17:00
 72,L,Philadelphia,2026-06-27,17:00
