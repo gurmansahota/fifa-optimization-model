@@ -1,0 +1,73 @@
+group,match_id,team_1,team_2,stadium,matchday,capacity
+A,A_1,Argentina,Mexico,Monterrey,1,51243
+A,A_2,Norway,Congo DR,Monterrey,1,51243
+A,A_3,Argentina,Norway,Monterrey,2,51243
+A,A_4,Mexico,Congo DR,Monterrey,2,51243
+A,A_5,Argentina,Congo DR,Monterrey,3,51243
+A,A_6,Mexico,Norway,Monterrey,3,51243
+B,B_1,Croatia,Austria,Seattle,1,66925
+B,B_2,Canada,South Africa,Vancouver,1,52497
+B,B_3,Croatia,Canada,Vancouver,2,52497
+B,B_4,Austria,South Africa,Seattle,2,66925
+B,B_5,Croatia,South Africa,Seattle,3,66925
+B,B_6,Austria,Canada,Vancouver,3,52497
+C,C_1,Colombia,USA,Boston,1,64146
+C,C_2,Tunisia,Qatar,Boston,1,64146
+C,C_3,Colombia,Tunisia,Boston,2,64146
+C,C_4,USA,Qatar,Boston,2,64146
+C,C_5,Colombia,Qatar,Boston,3,64146
+C,C_6,USA,Tunisia,Boston,3,64146
+D,D_1,Spain,Uruguay,Los Angeles,1,70492
+D,D_2,Uzbekistan,Haiti,Los Angeles,1,70492
+D,D_3,Spain,Uzbekistan,Los Angeles,2,70492
+D,D_4,Uruguay,Haiti,Los Angeles,2,70492
+D,D_5,Spain,Haiti,Los Angeles,3,70492
+D,D_6,Uruguay,Uzbekistan,Los Angeles,3,70492
+E,E_1,Portugal,Japan,Houston,1,68777
+E,E_2,Algeria,Curaçao,Dallas,1,70649
+E,E_3,Portugal,Algeria,Houston,2,68777
+E,E_4,Japan,Curaçao,Dallas,2,70649
+E,E_5,Portugal,Curaçao,Houston,3,68777
+E,E_6,Japan,Algeria,Dallas,3,70649
+F,F_1,Brazil,IR Iran,Atlanta,1,68239
+F,F_2,Panama,Cabo Verde,Atlanta,1,68239
+F,F_3,Brazil,Panama,Atlanta,2,68239
+F,F_4,IR Iran,Cabo Verde,Atlanta,2,68239
+F,F_5,Brazil,Cabo Verde,Atlanta,3,68239
+F,F_6,IR Iran,Panama,Atlanta,3,68239
+G,G_1,Morocco,Switzerland,Toronto,1,43036
+G,G_2,Czechia,Jordan,Toronto,1,43036
+G,G_3,Morocco,Czechia,Toronto,2,43036
+G,G_4,Switzerland,Jordan,Toronto,2,43036
+G,G_5,Morocco,Jordan,Toronto,3,43036
+G,G_6,Switzerland,Czechia,Toronto,3,43036
+H,H_1,Netherlands,Korea Republic,Miami,1,64478
+H,H_2,Egypt,Bosnia & Herzegovina,Miami,1,64478
+H,H_3,Netherlands,Egypt,Miami,2,64478
+H,H_4,Korea Republic,Bosnia & Herzegovina,Miami,2,64478
+H,H_5,Netherlands,Bosnia & Herzegovina,Miami,3,64478
+H,H_6,Korea Republic,Egypt,Miami,3,64478
+I,I_1,England,Senegal,San Francisco,1,68827
+I,I_2,Sweden,New Zealand,San Francisco,1,68827
+I,I_3,England,Sweden,San Francisco,2,68827
+I,I_4,Senegal,New Zealand,San Francisco,2,68827
+I,I_5,England,New Zealand,San Francisco,3,68827
+I,I_6,Senegal,Sweden,San Francisco,3,68827
+J,J_1,Germany,Ecuador,Kansas City,1,69045
+J,J_2,Côte d'Ivoire,Saudi Arabia,Kansas City,1,69045
+J,J_3,Germany,Côte d'Ivoire,Kansas City,2,69045
+J,J_4,Ecuador,Saudi Arabia,Kansas City,2,69045
+J,J_5,Germany,Saudi Arabia,Kansas City,3,69045
+J,J_6,Ecuador,Côte d'Ivoire,Kansas City,3,69045
+K,K_1,France,Australia,Philadelphia,1,68324
+K,K_2,Scotland,Ghana,New York,1,80663
+K,K_3,France,Scotland,Philadelphia,2,68324
+K,K_4,Australia,Ghana,New York,2,80663
+K,K_5,France,Ghana,Philadelphia,3,68324
+K,K_6,Australia,Scotland,New York,3,80663
+L,L_1,Belgium,Türkiye,Guadalajara,1,45664
+L,L_2,Paraguay,Iraq,Mexico City,1,80824
+L,L_3,Belgium,Paraguay,Mexico City,2,80824
+L,L_4,Türkiye,Iraq,Guadalajara,2,45664
+L,L_5,Belgium,Iraq,Mexico City,3,80824
+L,L_6,Türkiye,Paraguay,Guadalajara,3,45664
