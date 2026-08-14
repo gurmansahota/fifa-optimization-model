@@ -1,0 +1,73 @@
+Group,Match ID,Team 1,Team 2,City
+A,A_1,Argentina,Mexico,Monterrey
+A,A_2,Norway,Congo DR,Monterrey
+A,A_3,Argentina,Norway,Monterrey
+A,A_4,Mexico,Congo DR,Monterrey
+A,A_5,Argentina,Congo DR,Monterrey
+A,A_6,Mexico,Norway,Monterrey
+B,B_1,Croatia,Austria,Toronto
+B,B_2,Canada,South Africa,Toronto
+B,B_3,Croatia,Canada,Toronto
+B,B_4,Austria,South Africa,Toronto
+B,B_5,Croatia,South Africa,Toronto
+B,B_6,Austria,Canada,Toronto
+C,C_1,Colombia,USA,San Francisco Bay Area
+C,C_2,Tunisia,Qatar,San Francisco Bay Area
+C,C_3,Colombia,Tunisia,San Francisco Bay Area
+C,C_4,USA,Qatar,San Francisco Bay Area
+C,C_5,Colombia,Qatar,San Francisco Bay Area
+C,C_6,USA,Tunisia,San Francisco Bay Area
+D,D_1,Spain,Uruguay,Seattle
+D,D_2,Uzbekistan,Haiti,Vancouver
+D,D_3,Spain,Uzbekistan,Seattle
+D,D_4,Uruguay,Haiti,Vancouver
+D,D_5,Spain,Haiti,Seattle
+D,D_6,Uruguay,Uzbekistan,Vancouver
+E,E_1,Portugal,Japan,Miami
+E,E_2,Algeria,Curaçao,Miami
+E,E_3,Portugal,Algeria,Miami
+E,E_4,Japan,Curaçao,Miami
+E,E_5,Portugal,Curaçao,Miami
+E,E_6,Japan,Algeria,Miami
+F,F_1,Brazil,IR Iran,New York/New Jersey
+F,F_2,Panama,Cabo Verde,Philadelphia
+F,F_3,Brazil,Panama,New York/New Jersey
+F,F_4,IR Iran,Cabo Verde,Philadelphia
+F,F_5,Brazil,Cabo Verde,New York/New Jersey
+F,F_6,IR Iran,Panama,Philadelphia
+G,G_1,Morocco,Switzerland,Atlanta
+G,G_2,Czechia,Jordan,Atlanta
+G,G_3,Morocco,Czechia,Atlanta
+G,G_4,Switzerland,Jordan,Atlanta
+G,G_5,Morocco,Jordan,Atlanta
+G,G_6,Switzerland,Czechia,Atlanta
+H,H_1,Netherlands,Korea Republic,Los Angeles
+H,H_2,Egypt,Bosnia & Herzegovina,Los Angeles
+H,H_3,Netherlands,Egypt,Los Angeles
+H,H_4,Korea Republic,Bosnia & Herzegovina,Los Angeles
+H,H_5,Netherlands,Bosnia & Herzegovina,Los Angeles
+H,H_6,Korea Republic,Egypt,Los Angeles
+I,I_1,England,Senegal,Dallas
+I,I_2,Sweden,New Zealand,Houston
+I,I_3,England,Sweden,Dallas
+I,I_4,Senegal,New Zealand,Houston
+I,I_5,England,New Zealand,Dallas
+I,I_6,Senegal,Sweden,Houston
+J,J_1,Germany,Ecuador,Kansas City
+J,J_2,Côte d'Ivoire,Saudi Arabia,Kansas City
+J,J_3,Germany,Côte d'Ivoire,Kansas City
+J,J_4,Ecuador,Saudi Arabia,Kansas City
+J,J_5,Germany,Saudi Arabia,Kansas City
+J,J_6,Ecuador,Côte d'Ivoire,Kansas City
+K,K_1,France,Australia,Guadalajara
+K,K_2,Scotland,Ghana,Guadalajara
+K,K_3,France,Scotland,Guadalajara
+K,K_4,Australia,Ghana,Mexico City
+K,K_5,France,Ghana,Mexico City
+K,K_6,Australia,Scotland,Mexico City
+L,L_1,Belgium,Türkiye,Boston
+L,L_2,Paraguay,Iraq,Boston
+L,L_3,Belgium,Paraguay,Boston
+L,L_4,Türkiye,Iraq,Boston
+L,L_5,Belgium,Iraq,Boston
+L,L_6,Türkiye,Paraguay,Boston
